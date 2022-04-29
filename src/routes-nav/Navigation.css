@@ -1,0 +1,12 @@
+  .nav-item {
+    text-align: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+  }
+  
+  nav a.active {
+    color: rgb(51, 54, 107) !important;;
+  }
+

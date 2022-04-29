@@ -1,0 +1,19 @@
+.Guide {
+    width: 250px;
+    text-align: left;
+    margin: 2em;
+}
+
+.Guide-step {
+    background-color: rgb(255, 213, 0);
+    font-size: 1.4em;
+    font-weight: bolder;
+    width: 1.7em;
+    border-radius: 0.2em;
+    text-align: center;
+}
+
+.Guide-title {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}

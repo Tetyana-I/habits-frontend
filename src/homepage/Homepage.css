@@ -1,0 +1,14 @@
+.Homepage {
+  margin-left: auto;
+  margin-right: auto
+}
+
+.Homepage-quote {
+  background-color: whitesmoke;
+  border-radius: 1em;
+  padding: 0.7em;
+}
+
+.Homepage-title {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
